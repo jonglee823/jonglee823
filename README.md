@@ -18,7 +18,6 @@
 
 <!--공부중 -->
  <h3>:pencil2: Studying </h3>
- <img src="https://img.shields.io/badge/RedHat-CC6699?style=flat&logo=RedHat&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-37776AB?style=flat&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
